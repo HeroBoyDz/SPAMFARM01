@@ -2,7 +2,7 @@
 //copyright © Angry Black 2020.//❦Angry Black❦
 
 const Discord = require("discord.js");
-const myid = ['Your ID'];//هنا بتحط الايدى بتاعك بتاع الديسكورد
+const myid = ['753364215296819281'];//هنا بتحط الايدى بتاعك بتاع الديسكورد
 const client = new Discord.Client();
 const client2 = new Discord.Client();
 const client3 = new Discord.Client();
@@ -390,8 +390,8 @@ client.on('message', message => {
 if (message.content === '$spam') {
       let count = 0;
       let ecount = 0;
-      for(let x = 0; x < 30000; x++) {
-        message.channel.send(`**??? ???? ??? **[ " ${x} " ]`)
+      for(let x = 0; x < 10000; x++) {
+        message.channel.send(`**HERO **[ " ${x} " ]`)
           .then(m => {
             count++;
           })
@@ -404,8 +404,8 @@ client2.on('message', message => {
 if (message.content === '$spam') {
       let count = 0;
       let ecount = 0;
-      for(let x = 0; x < 30000; x++) {
-        message.channel.send(`**??? ???? ??? **[ " ${x} " ]`)
+      for(let x = 0; x < 10000; x++) {
+        message.channel.send(`**KARIM **[ " ${x} " ]`)
           .then(m => {
             count++;
           })
@@ -418,8 +418,8 @@ client3.on('message', message => {
 if (message.content === '$spam') {
       let count = 0;
       let ecount = 0;
-      for(let x = 0; x < 30000; x++) {
-        message.channel.send(`**??? ???? ??? ?? ??? **[ " ${x} " ]`)
+      for(let x = 0; x < 10000; x++) {
+        message.channel.send(`**SAMY **[ " ${x} " ]`)
           .then(m => {
             count++;
           })
@@ -432,9 +432,9 @@ client4.on('message', message => {
 if (message.content === '$spam') {
       let count = 0;
       let ecount = 0;
-      for(let x = 0; x < 30000; x++) {
+      for(let x = 0; x < 10000; x++) {
        
-        message.channel.send(`**??? ???? ??? ?? ??? **[ " ${x} " ]`)
+        message.channel.send(`**MEZ **[ " ${x} " ]`)
           .then(m => {
             count++;
           })
@@ -447,8 +447,8 @@ client5.on('message', message => {
 if (message.content === '$spam') {
       let count = 0;
       let ecount = 0;
-      for(let x = 0; x < 30000; x++) {
-        message.channel.send(`**??? ???? ??? ?? ??? **[ " ${x} " ]`)
+      for(let x = 0; x < 10000; x++) {
+        message.channel.send(`**CREBER **[ " ${x} " ]`)
           .then(m => {
             count++;
           })
@@ -461,8 +461,8 @@ client6.on('message', message => {
 if (message.content === '$spam') {
       let count = 0;
       let ecount = 0;
-      for(let x = 0; x < 30000; x++) {
-        message.channel.send(`**??? ???? ??? ?? ??? **[ " ${x} " ]`)
+      for(let x = 0; x < 10000; x++) {
+        message.channel.send(`**AYMAN NA9CH **[ " ${x} " ]`)
           .then(m => {
             count++;
           })
@@ -475,9 +475,9 @@ client7.on('message', message => {
 if (message.content === '$spam') {
       let count = 0;
       let ecount = 0;
-      for(let x = 0; x < 30000; x++) {
+      for(let x = 0; x < 10000; x++) {
        
-        message.channel.send(`**??? ???? ??? ?? ??? **[ " ${x} " ]`)
+        message.channel.send(`**ERFAN **[ " ${x} " ]`)
           .then(m => {
             count++;
           })
@@ -490,8 +490,8 @@ client8.on('message', message => {
 if (message.content === '$spam') {
       let count = 0;
       let ecount = 0;
-      for(let x = 0; x < 30000; x++) {
-        message.channel.send(`**??? ???? ??? ?? ??? **[ " ${x} " ]`)
+      for(let x = 0; x < 10000; x++) {
+        message.channel.send(`**DA9TLI **[ " ${x} " ]`)
           .then(m => {
             count++;
           })
@@ -504,8 +504,8 @@ client9.on('message', message => {
 if (message.content === '$spam') {
       let count = 0;
       let ecount = 0;
-      for(let x = 0; x < 30000; x++) {
-        message.channel.send(`**??? ???? ??? ?? ??? **[ " ${x} " ]`)
+      for(let x = 0; x < 10000; x++) {
+        message.channel.send(`**NINA SMINA **[ " ${x} " ]`)
           .then(m => {
             count++;
           })
@@ -518,8 +518,8 @@ client10.on('message', message => {
 if (message.content === '$spam') {
       let count = 0;
       let ecount = 0;
-      for(let x = 0; x < 30000; x++) {
-        message.channel.send(`**??? ???? ??? ?? ??? **[ " ${x} " ]`)
+      for(let x = 0; x < 10000; x++) {
+        message.channel.send(`**ZBII **[ " ${x} " ]`)
           .then(m => {
             count++;
           })
@@ -532,8 +532,8 @@ client11.on('message', message => {
 if (message.content === '$spam') {
       let count = 0;
       let ecount = 0;
-      for(let x = 0; x < 30000; x++) {
-        message.channel.send(`**??? ???? ??? **[ " ${x} " ]`)
+      for(let x = 0; x < 10000; x++) {
+        message.channel.send(`**HEHEEEE **[ " ${x} " ]`)
           .then(m => {
             count++;
           })
@@ -546,8 +546,8 @@ client12.on('message', message => {
 if (message.content === '$spam') {
       let count = 0;
       let ecount = 0;
-      for(let x = 0; x < 30000; x++) {
-        message.channel.send(`**??? ???? ??? **[ " ${x} " ]`)
+      for(let x = 0; x < 10000; x++) {
+        message.channel.send(`**WOOHOOO **[ " ${x} " ]`)
           .then(m => {
             count++;
           })
@@ -560,8 +560,8 @@ client13.on('message', message => {
 if (message.content === '$spam') {
       let count = 0;
       let ecount = 0;
-      for(let x = 0; x < 30000; x++) {
-        message.channel.send(`**??? ???? ??? ?? ??? **[ " ${x} " ]`)
+      for(let x = 0; x < 10000; x++) {
+        message.channel.send(`**WZBI **[ " ${x} " ]`)
           .then(m => {
             count++;
           })
@@ -574,9 +574,9 @@ client14.on('message', message => {
 if (message.content === '$spam') {
       let count = 0;
       let ecount = 0;
-      for(let x = 0; x < 30000; x++) {
+      for(let x = 0; x < 10000; x++) {
        
-        message.channel.send(`**??? ???? ??? ?? ??? **[ " ${x} " ]`)
+        message.channel.send(`**YDK FIH **[ " ${x} " ]`)
           .then(m => {
             count++;
           })
@@ -589,8 +589,8 @@ client15.on('message', message => {
 if (message.content === '$spam') {
       let count = 0;
       let ecount = 0;
-      for(let x = 0; x < 30000; x++) {
-        message.channel.send(`**??? ???? ??? ?? ??? **[ " ${x} " ]`)
+      for(let x = 0; x < 10000; x++) {
+        message.channel.send(`**IMANYOOOKA**[ " ${x} " ]`)
           .then(m => {
             count++;
           })
@@ -603,8 +603,8 @@ client16.on('message', message => {
 if (message.content === '$spam') {
       let count = 0;
       let ecount = 0;
-      for(let x = 0; x < 30000; x++) {
-        message.channel.send(`**??? ???? ??? **[ " ${x} " ]`)
+      for(let x = 0; x < 10000; x++) {
+        message.channel.send(`**ZEDK **[ " ${x} " ]`)
           .then(m => {
             count++;
           })
@@ -617,8 +617,8 @@ client17.on('message', message => {
 if (message.content === '$spam') {
       let count = 0;
       let ecount = 0;
-      for(let x = 0; x < 30000; x++) {
-        message.channel.send(`**??? ???? ??? **[ " ${x} " ]`)
+      for(let x = 0; x < 10000; x++) {
+        message.channel.send(`**PNL **[ " ${x} " ]`)
           .then(m => {
             count++;
           })
@@ -631,9 +631,9 @@ client18.on('message', message => {
 if (message.content === '$spam') {
       let count = 0;
       let ecount = 0;
-      for(let x = 0; x < 30000; x++) {
+      for(let x = 0; x < 10000; x++) {
        
-        message.channel.send(`**??? ???? ??? ?? ??? **[ " ${x} " ]`)
+        message.channel.send(`**NF **[ " ${x} " ]`)
           .then(m => {
             count++;
           })
@@ -646,8 +646,8 @@ client19.on('message', message => {
 if (message.content === '$spam') {
       let count = 0;
       let ecount = 0;
-      for(let x = 0; x < 30000; x++) {
-        message.channel.send(`**??? ???? ??? ?? ??? **[ " ${x} " ]`)
+      for(let x = 0; x < 10000; x++) {
+        message.channel.send(`**CYKA BLYAT **[ " ${x} " ]`)
           .then(m => {
             count++;
           })
@@ -660,8 +660,8 @@ client20.on('message', message => {
 if (message.content === '$spam') {
       let count = 0;
       let ecount = 0;
-      for(let x = 0; x < 30000; x++) {
-        message.channel.send(`**??? ???? ??? ?? ??? **[ " ${x} " ]`)
+      for(let x = 0; x < 10000; x++) {
+        message.channel.send(`**WATAFAK MAN **[ " ${x} " ]`)
           .then(m => {
             count++;
           })
@@ -674,8 +674,8 @@ client21.on('message', message => {
 if (message.content === '$spam') {
       let count = 0;
       let ecount = 0;
-      for(let x = 0; x < 30000; x++) {
-        message.channel.send(`**??? ???? ??? ?? ??? **[ " ${x} " ]`)
+      for(let x = 0; x < 10000; x++) {
+        message.channel.send(`**ANA 3AMI9 **[ " ${x} " ]`)
           .then(m => {
             count++;
           })
@@ -688,8 +688,8 @@ client22.on('message', message => {
 if (message.content === '$spam') {
       let count = 0;
       let ecount = 0;
-      for(let x = 0; x < 30000; x++) {
-        message.channel.send(`**??? ???? ??? ?? ??? **[ " ${x} " ]`)
+      for(let x = 0; x < 10000; x++) {
+        message.channel.send(`**STFU BRO **[ " ${x} " ]`)
           .then(m => {
             count++;
           })
@@ -702,8 +702,8 @@ client23.on('message', message => {
 if (message.content === '$spam') {
       let count = 0;
       let ecount = 0;
-      for(let x = 0; x < 30000; x++) {
-        message.channel.send(`**??? ???? ??? ?? ??? **[ " ${x} " ]`)
+      for(let x = 0; x < 10000; x++) {
+        message.channel.send(`**BOUMEDYEN LITE **[ " ${x} " ]`)
           .then(m => {
             count++;
           })
@@ -716,8 +716,8 @@ client24.on('message', message => {
 if (message.content === '$spam') {
       let count = 0;
       let ecount = 0;
-      for(let x = 0; x < 30000; x++) {
-        message.channel.send(`**??? ???? ??? ?? ??? **[ " ${x} " ]`)
+      for(let x = 0; x < 10000; x++) {
+        message.channel.send(`**YALK3BA **[ " ${x} " ]`)
           .then(m => {
             count++;
           })
